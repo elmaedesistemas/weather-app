@@ -1,0 +1,34 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -p",
+    "dev": "webpack-dev-server -d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coffescript/weather-app.git"
+  },
+  "keywords": [
+    "weather",
+    "app",
+    "application"
+  ],
+  "author": "Deiby Mejia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coffescript/weather-app/issues"
+  },
+  "homepage": "https://github.com/coffescript/weather-app#readme",
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
