@@ -25,7 +25,7 @@
   "homepage": "https://github.com/coffescript/weather-app#readme",
   "devDependencies": {
     "css-loader": "^3.2.0",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "style-loader": "^1.0.0",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
